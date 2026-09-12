@@ -1,0 +1,30 @@
+Color Code	Description / Usage
+#2e8b57	Background gradient (dark green) in body, submit button
+#a8d5ba	Background gradient (light green) in body, .balance-container
+#fff	Background color for .container, .income, .expenses, etc.
+#2d3436	body text color
+#1a202c	h1 title color
+#2d3748	h2 color
+#6b8e23	.balance-container background gradient
+#059669	.income h3 and .income p text, .transaction.income border
+#dc2626	.expenses h3, .expenses p, .transaction.expense border, delete btn
+#f1f1f1	Scrollbar track background
+#cbd5e0	Scrollbar thumb default color, input:hover border
+#a0aec0	Scrollbar thumb hover color
+#fee2e2	Delete button hover background
+#f6f8fb	.form-container background gradient start
+#f1f4f8	.form-container background gradient end
+#e2e8f0	input border default color
+#667eea	input:focus border & box-shadow color
+#4a5568	label text color
+#718096	small text color
+#3cb371	Gradient in button[type="submit"] (light green end)
+
+✅ RGBA Colors
+Color Code	Description / Usage
+rgba(0, 0, 0, 0.15)	.container box-shadow
+rgba(0, 0, 0, 0.05)	.balance-container, .income, .expenses, etc.
+rgba(0, 0, 0, 0.1)	.transaction:hover box-shadow
+rgba(102, 126, 234, 0.1)	input:focus box-shadow
+rgba(102, 126, 234, 0.2)	Submit button box-shadow
+rgba(102, 126, 234, 0.3)	Submit button hover box-shadow
